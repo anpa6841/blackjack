@@ -11,8 +11,6 @@
 - pip3 install Pillow 
 - python blackjack-gui.py
 
-Game Demo - <a href="https://github.com/Aparikh-Tech/blackjack/blob/master/BlackJack.mov">BlackJack</a>
+### Game Demo
 
-
-P.S. This repo is 100% AI-generated. Link to the chat: https://chatgpt.com/c/66f9a611-9acc-8006-8bff-9158d78debc9
-
+https://github.com/user-attachments/assets/9299cb7c-e0ed-40f4-9682-cf5e0e0b202e
